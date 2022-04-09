@@ -19,7 +19,7 @@
     "jquery": "3.3.1",
     "jqwidgets-scripts": "^8.0.0",
     "jvectormap-next": "3.0.0",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "nouislider": "13.1.0",
     "perfect-scrollbar": "1.4.0",
     "sweetalert2": "8.0.6",
